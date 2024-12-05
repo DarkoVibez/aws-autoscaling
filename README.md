@@ -23,9 +23,11 @@ A VPC is an isolated, private network you can create to run your workloads. You 
 8. Optional: VPC endpoints = "S3 Gateway"
 9. Leave all other settings as default
 10. Click Create VPC
+    
 Your configuration should match what is shown below:
 
- 
+[
+](https://github.com/DarkoVibez/aws-autoscaling/blob/4b875faa27a432e510f484a7c05f70b866f9e7cd/Screenshot%202023-07-10%20163913.png) 
 
 Create a Launch Template
 The launch template will serve as the blueprint for creating the exact type of server we need to meet our web server demands. A launch template can be modified to create new versions when you need to change a config.
