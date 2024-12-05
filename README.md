@@ -7,7 +7,7 @@ This tutorial walks you through the process of creating a web server which is ma
 Errors or corrections? Contact darkosloutions@gmail.com.
 
 ## Architecture Diagram
-![](/images/autoscale-diagram-Page-1.drawio2.png)
+![](/autoscale-diagram-Page-1.drawio2.png)
 
 
 ## Create a VPC
